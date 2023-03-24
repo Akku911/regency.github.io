@@ -78,7 +78,7 @@ header nav .site-logo {
 header nav .site-logo a img {
   width: 100%;
 }
-header nav .menu .menu-list {
+header nav .menu {
   display: flex;
   align-items: center;
 }
